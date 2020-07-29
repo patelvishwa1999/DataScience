@@ -1,3 +1,3 @@
 # DataScience
 
-COVID-19 analysis using R.
+COVID-19 statistical analysis and gaining insights using R.
